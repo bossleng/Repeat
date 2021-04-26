@@ -1,3 +1,5 @@
 # I'm trying again
 
-Github is easy!
+Github is amaizing!
+
+Also fun
